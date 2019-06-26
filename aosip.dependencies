@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "evo-devices",
+    "repository": "vendor_motorola_sanders",
+    "target_path": "vendor/motorola/sanders",
+    "revision": "pie"
+  },
+  {
+    "remote": "evo-decices",
+    "repository": "kernel_motorola_sanders",
+    "target_path": "kernel/motorola/msm8953",
+    "revision": "pie"
+  }
+]

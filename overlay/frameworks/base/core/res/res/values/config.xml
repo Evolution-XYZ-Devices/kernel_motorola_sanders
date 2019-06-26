@@ -341,13 +341,13 @@
     <bool name="config_supportDoubleTapWake">false</bool>
 
     <!-- Paths to the libraries that contain device specific key handlers -->
-    <string-array name="config_deviceKeyHandlerLibs" translatable="false">
-        <item>/vendor/app/MotoActions/MotoActions.apk</item>
-    </string-array>
+    <string name="config_deviceKeyHandlerLibs" translatable="false">
+        <item>/system/priv-app/MotoActions/MotoActions.apk</item>
+    </string>
 
-    <string-array name="config_deviceKeyHandlerClasses" translatable="false">
+    <string name="config_deviceKeyHandlerClasses" translatable="false">
         <item>com.moto.actions.KeyHandler</item>
-    </string-array>
+    </string>
 
     <!-- Default value for proximity check on screen wake
          NOTE ! - Enable for devices that have a fast response proximity sensor (ideally < 300ms)-->
