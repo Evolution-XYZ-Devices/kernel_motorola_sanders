@@ -55,6 +55,6 @@ TARGET_GAPPS_ARCH := arm64
 IS_PHONE := true
 
 # PixelStyle
-(call inherit-product-if-exists, vendor/pixelstyle/config.mk)
+$(call inherit-product-if-exists, vendor/pixelstyle/config.mk)
 
 AOSIP_BUILDTYPE := DerpFest
