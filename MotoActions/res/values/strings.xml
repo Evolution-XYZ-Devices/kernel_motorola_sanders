@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
-    <string name="moto_actions_title">Moto Settings</string>
+    <string name="moto_actions_title">Derped MotosNest</string>
     <string name="moto_actions_summary">Settings to feature your Moto</string>
 
     <!-- Device gestures -->
